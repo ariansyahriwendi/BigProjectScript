@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/arian/IdeaProjects/BigProject">
+        <classes>
+
+            <class name="com.orangehrm.orangehrm.AdminTest"/>
+            <class name="com.orangehrm.orangehrm.EmployeeReportTest"/>
+            <class name="com.orangehrm.orangehrm.EndToEndTest"/>
+            <class name="com.orangehrm.orangehrm.LeaveTest"/>
+            <class name="com.orangehrm.orangehrm.LoginTest"/>
+            <class name="com.orangehrm.orangehrm.LogoutTest"/>
+            <class name="com.orangehrm.orangehrm.ProjectReportTest"/>
+            <class name="com.orangehrm.orangehrm.PunchTest"/>
+
+        </classes>
+
+
+    </test>
+</suite>
